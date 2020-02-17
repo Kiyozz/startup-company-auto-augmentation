@@ -1,0 +1,4 @@
+{
+  "auto_accept_augmentations.accept_text": "You've agreed to increase {employee}'s salary by <strong>${priceRaise}</strong>/month with a bonus of <strong>${priceBonus}</strong>",
+  "auto_accept_augmentations.accept_transaction_text": "Employee Bonus {employee}"
+}
