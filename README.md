@@ -1,20 +1,24 @@
-# Auto accept augmentation mod
+# Startup company auto augmentation mod
 
-## Initialisation
+## Initialization
 
-    npm i // install dependencies
+```bash
+pnpm i // install dependencies
+```
 
 ## Sources
 
-Mod feature is located in src/start.js (babel ESNEXT)
+Mod feature is located in src/start.ts
 
 To use within the game, build the sources
 
 ## Build
 
-    npm run build
+```bash
+pnpm build
+```
 
-In development use `npm run watch`
+In development use `pnpm watch`
 
 You'll need to make a symlink of the mod to your Startup Company mods folder (`Startup Company\resources\app\mods\auto_accept_augmentations`) with the name "auto_accept_augmentations" to the builded source in `dist` folder
 
