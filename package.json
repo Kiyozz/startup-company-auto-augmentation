@@ -2,7 +2,7 @@
   "name": "startup-company-mod-auto-accept-augmentations",
   "version": "1.0.0",
   "description": "Automaticaly accept salary augmentations",
-  "main": "start.js",
+  "main": "dist/start.js",
   "scripts": {
     "build": "esbuild src/start.ts --bundle --target=node8 --minify --platform=node --outfile=dist/start.js --loader:.ts=ts",
     "watch": "esbuild src/start.ts --bundle --target=node8 --minify --platform=node --outfile=dist/start.js --loader:.ts=ts --watch",
