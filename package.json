@@ -18,18 +18,18 @@
   "author": "WK",
   "license": "MIT",
   "devDependencies": {
-    "@types/lodash": "^4.14.182",
+    "@types/lodash": "^4.14.189",
     "@types/node": "^16.11.45",
-    "@typescript-eslint/eslint-plugin": "^5.32.0",
-    "@typescript-eslint/parser": "^5.32.0",
-    "esbuild": "^0.14.53",
-    "eslint": "^8.21.0",
+    "@typescript-eslint/eslint-plugin": "^5.44.0",
+    "@typescript-eslint/parser": "^5.44.0",
+    "esbuild": "^0.15.15",
+    "eslint": "^8.28.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "husky": "^8.0.1",
+    "husky": "^8.0.2",
     "lint-staged": "^13.0.3",
     "prettier": "^2.7.1",
-    "typescript": "^4.7.4"
+    "typescript": "^4.9.3"
   },
   "lint-staged": {
     "*.ts": [
