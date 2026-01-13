@@ -1,5 +1,7 @@
 # Startup company auto augmentation mod
 
+# No longer maintained
+
 ## Initialization
 
 ```bash
